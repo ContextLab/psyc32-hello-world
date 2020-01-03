@@ -1,2 +1,5 @@
-# psyc32-hello-world
-Template repository for PSYC 32 assignment 1: Hello, world!
+# Hello, world!
+
+This is a template repository for **PSYC 32 Assignment 1: Hello, world!**
+
+Open the Jupyter (.ipynb) notebook to begin!
