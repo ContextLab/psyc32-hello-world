@@ -1,6 +1,6 @@
 # Hello, world!
 
-This is a template repository for **PSYC 32 Assignment 1: Hello, world!**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  To begin, open (click) the `hello_world_assignment.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
+This is a template repository for **PSYC 132 Assignment 1: Hello, world!**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  To begin, open (click) the `hello_world_assignment.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
 # Setup and submission
 
